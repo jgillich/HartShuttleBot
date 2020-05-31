@@ -17,3 +17,4 @@ jobs:
         registry: docker.pkg.github.com
         repository: jgillich/hartshuttlebot/hartshuttlebot
         tags: latest
+        tag_with_sha: true
