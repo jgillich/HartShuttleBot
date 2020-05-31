@@ -15,5 +15,5 @@ jobs:
         username: ${{ github.actor }}
         password: ${{ github.token }}
         registry: docker.pkg.github.com
-        repository: docker.pkg.github.com/psforever/hartshuttlebot
+        repository: jgillich/hartshuttlebot/hartshuttlebot
         tags: latest
